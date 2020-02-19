@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="title">Welcome to First App</string>
+    <string name="hint">Name</string>
+    <string name="btn">Enter</string>
+    <string name="hello">Hello!</string>
+    <string name="input">""</string>
+</resources>
